@@ -14,3 +14,17 @@ eau gazeuze -
 mousse au chocolat - 
 
 ------------------
+Résumé de la commande 1 : 
+salade - 
+poulet - 
+pates - 
+soda - 
+
+------------------
+Résumé de la commande 2 : 
+soupe - 
+boeuf - 
+pates - 
+tiramisu - 
+
+------------------
